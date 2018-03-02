@@ -1,0 +1,4 @@
+/* Adding background to third item of list */
+.third ul li:nth-child(3) {
+	background: blue;
+}
